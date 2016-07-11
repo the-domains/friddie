@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.849087
+color:
+  saturation: 0.9810205
+  lightness: 0.7866442
+  brandStrength: 0.6894816
+  rhythmicContrast: 0.04869315
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Friddie
